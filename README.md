@@ -6,21 +6,27 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
+As a first step import sys
 
-### Step 2: 
- 
-### Step 3: 
+### Step 2:
+Create a file.txt and add a content
 
-### Step 4:  
+### Step 3:
+Split the words using .split() function
 
-### Step 5: 
+### Step 4:
+Read the words
 
-### Step 6: 
+### Step 5:
+Run the program
 
 ## PROGRAM:
+![input](./prgm1.jpeg)
+
+![input](./file.jpeg)
 
 ### OUTPUT:
-
+![output](./output.jpeg)
 
 
 ## RESULT:
